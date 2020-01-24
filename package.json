@@ -1,0 +1,14 @@
+{
+  "name": "integer_combination",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "<imaneben8@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "devDependencies": {
+    "@types/jest": "^24.9.1",
+    "jest": "^24.9.0"
+  }
+}
