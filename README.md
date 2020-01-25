@@ -17,3 +17,5 @@ that, given any String input, returns all the distinct AND-Siblings that can be 
 1. clone this repo
 2. run `yarn`
 3. run `yarn test`
+
+### Screenshot of my running app:
