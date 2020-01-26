@@ -19,3 +19,5 @@ that, given any String input, returns all the distinct AND-Siblings that can be 
 3. run `yarn test`
 
 ### Screenshot of my running app:
+
+<img width="1000" alt="Screen Shot 2020-01-25 at 23 59 28" src="https://user-images.githubusercontent.com/50555113/73128901-e0781380-3fce-11ea-9e80-05e01f2ac649.png">
